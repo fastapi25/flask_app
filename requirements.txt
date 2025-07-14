@@ -147,3 +147,5 @@ wsproto==1.2.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
 zstandard==0.23.0
 python-dotenv
+flask_sqlalchemy
+pymysql
